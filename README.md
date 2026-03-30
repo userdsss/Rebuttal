@@ -1,9 +1,11 @@
-# Supplementary information of rebuttal
+# Supplementary materials of rebuttal
 
-**The general properties of the front-door criterion(The theoretical origins of Assumptions 3.4–3.6)**
+**The general properties of the front-door criterion[1] (The theoretical origins of Assumptions 3.4–3.6)**
 
 <img width="445" height="134" alt="ca5f4e45d1004cd0b22e39c6e378508f" src="https://github.com/user-attachments/assets/bdee266f-4d49-4769-aec3-209d86371829" />
 
+[1] Judea Pearl. Causality models, reasoning, and inference (Second edition), Cambridge University Press, Page 82.
+_______________________________________________________________________________________
 
 **Table 1. Out-of-Distribution (OOD) Experimental Results**
 
@@ -12,7 +14,7 @@
 | UNI  | 0.6791 | 0.7609 | 0.6912 | 0.7297 |
 | Ours | **0.7395** | **0.8505** | **0.7122** | **0.7823** |
 
-
+_____________________________________________________________________________
 **Table 2. Comparison with Multimodal Baselines**
 
 | Method | BRCA | BLCA | COADREAD | STAD | GBMLGG | LUAD | HNSC | UCEC | KIRC | KIRP |
